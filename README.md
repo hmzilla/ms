@@ -1,7 +1,5 @@
 This repo is a fork from https://github.com/massgravel/Microsoft-Activation-Scripts
 # MAS (Microsoft Activation Scripts)
-- **تحذير** : هذا المحتوى مفتوح المصدر و هو نسخه قديمه و آمنة (تم التحقق منها) من أداة "مــاس" لتفعيل ويندوز و أوفيس.
-- **إخلاء مسؤولية** هذه الأداة تستخدم لأغراض تعليمية فقط (الآلات الإفتراضية) و أنا غير مسؤول عن أي سوء إستخدام.
 ## طريقة الإستخدام:
 إفتح Powershell كمسؤول و إكتب 
 ```powershell
